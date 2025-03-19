@@ -1,0 +1,16 @@
+[
+  {"name": "Singapore", "geoId": "102454443"},
+  {"name": "Mumbai, India", "geoId": "105214831"},
+  {"name": "Bangalore, India", "geoId": "105307040"},
+  {"name": "New Delhi, India", "geoId": "102161913"},
+  {"name": "Bangkok, Thailand", "geoId": "90010220"},
+  {"name": "Jakarta, Indonesia", "geoId": "102005835"},
+  {"name": "Kuala Lumpur, Malaysia", "geoId": "103030408"},
+  {"name": "Sydney, Australia", "geoId": "106300213"},
+  {"name": "Melbourne, Australia", "geoId": "104514572"},
+  {"name": "New York, United States", "geoId": "102571732"},
+  {"name": "San Francisco, United States", "geoId": "101620260"},
+  {"name": "London, United Kingdom", "geoId": "101165590"},
+  {"name": "Toronto, Canada", "geoId": "100025096"},
+  {"name": "Dubai, UAE", "geoId": "90000049"}
+]
