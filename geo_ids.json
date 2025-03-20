@@ -12,5 +12,6 @@
   {"name": "San Francisco, United States", "geoId": "101620260"},
   {"name": "London, United Kingdom", "geoId": "101165590"},
   {"name": "Toronto, Canada", "geoId": "100025096"},
-  {"name": "Dubai, UAE", "geoId": "104305776"}
+  {"name": "Dubai, UAE", "geoId": "104305776"},
+  {"name": "Durban, South Africa", "geoId": "90010095"}
 ]
