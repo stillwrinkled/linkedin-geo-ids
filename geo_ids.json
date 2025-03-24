@@ -13,5 +13,12 @@
   {"name": "London, United Kingdom", "geoId": "101165590"},
   {"name": "Toronto, Canada", "geoId": "100025096"},
   {"name": "Dubai, UAE", "geoId": "104305776"},
-  {"name": "Durban, South Africa", "geoId": "90010095"}
+  {"name": "Durban, South Africa", "geoId": "90010095"},
+  {"name": "Pune, India", "geoId": "114806696"},
+  {"name": "Gurgaon, India", "geoId": "115884833"},
+  {"name": "NOIDA, India", "geoId": "104869687"},
+  {"name": "New Delhi, India", "geoId": "115918471"},
+  {"name": "Hyderabad, India", "geoId": "105556991"},
+  
+  
 ]
