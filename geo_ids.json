@@ -73,5 +73,14 @@
   {"name": "Charleston, West Virginia", "geoId": "101522994"},
   {"name": "Concord, New Hampshire", "geoId": "102040494"},
   {"name": "Montpelier, Vermont", "geoId": "105352687"},
-  {"name": "Kolkata, India", "geoId": "111795395"}
+  {"name": "Kolkata, India", "geoId": "111795395"},
+   {"name": "San Francisco, CA", "geoId": "101820260"},
+  {"name": "San Jose, CA", "geoId": "102186606"},
+  {"name": "Oakland, CA", "geoId": "101878141"},
+  {"name": "Berkeley, CA", "geoId": "102262388"},
+  {"name": "Palo Alto, CA", "geoId": "102234979"},
+  {"name": "Mountain View, CA", "geoId": "102239353"},
+  {"name": "Sunnyvale, CA", "geoId": "102244486"},
+  {"name": "Santa Clara, CA", "geoId": "102247973"},
+  {"name": "Fremont, CA", "geoId": "102199387"}
 ]
