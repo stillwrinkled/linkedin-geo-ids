@@ -152,6 +152,10 @@
   {"name": "Turin, Italy", "geoId": "105968381"},
   {"name": "Stockholm, Sweden", "geoId": "100907646"},
   {"name": "Gothenburg, Sweden", "geoId": "104114836"},
+  {"name": "Oslo, Norway", "geoId": "105719246"},
+  {"name": "Copenhagen, Denmark", "geoId": "102194656"},
+  {"name": "Helsinki, Finland", "geoId": "106591199"},
+  
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
