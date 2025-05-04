@@ -120,6 +120,9 @@
   {"name": "Quito, Ecuador", "geoId": "104011438"},
   {"name": "Caracas, Venezuela", "geoId": "104362718"},
   {"name": "Asunción, Paraguay", "geoId": "101707166"},
+  {"name": "Mexico City, Mexico", "geoId": "101526486"},
+  {"name": "Guadalajara, Mexico", "geoId": "90010043"},
+  {"name": "Tijuana, Mexico", "geoId": "101586014"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
