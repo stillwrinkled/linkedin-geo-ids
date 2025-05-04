@@ -173,6 +173,11 @@
   {"name": "Dubai, UAE", "geoId": "104305776"},
   {"name": "Abu Dhabi, UAE", "geoId": "104524176"},
   {"name": "Sharjah, UAE", "geoId": "108354619"},
+  {"name": "Tel Aviv, Israel", "geoId": "104243116"},
+  {"name": "Haifa, Israel", "geoId": "118503349"},
+  {"name": "Netanya, Israel", "geoId": "118269008"},
+  {"name": "Haifa, Israel", "geoId": "118503349"},
+  {"name": "Beersheba, Israel", "geoId": "106471739"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
