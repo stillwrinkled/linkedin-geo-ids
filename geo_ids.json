@@ -130,6 +130,11 @@
   {"name": "Glasgow, Scotland", "geoId": "102681496"},
   {"name": "Nottingham, United Kingdom", "geoId": "101434318"},
   {"name": "Leicester, United Kingdom", "geoId": "108618316"},
+  {"name": "Berlin, Germany", "geoId": "103035651"},
+  {"name": "Munich, Germany", "geoId": "100477049"},
+  {"name": "Frankfurt, Germany", "geoId": "106772406"},
+  {"name": "Hamburg, Germany", "geoId": "101949806"},
+  {"name": "Düsseldorf, Germany", "geoId": "104008204"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
