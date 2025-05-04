@@ -101,5 +101,15 @@
   {"name": "Sunnyvale, CA", "geoId": "104119503"},
   {"name": "Santa Clara, CA", "geoId": "105416315"},
   {"name": "Milpitas, CA", "geoId": "102068169"},
+  {"name": "São Paulo, Brazil", "geoId": "105871508"},
+  {"name": "Rio de Janeiro, Brazil", "geoId": "103658898"},
+  {"name": "Brasília, Brazil", "geoId": "104413988"},
+  {"name": "Belo Horizonte, Brazil", "geoId": "105818291"},
+  {"name": "Porto Alegre, Brazil", "geoId": "102556749"},
+  {"name": "Buenos Aires, Argentina", "geoId": "101279968"},
+  {"name": "Córdoba, Argentina", "geoId": "101272400"},
+  {"name": "Rosario, Argentina", "geoId": "102556749"},
+  {"name": "Mendoza, Argentina", "geoId": "100670802"},
   {"name": "Fremont, CA", "geoId": "106138232"}
+  
 ]
