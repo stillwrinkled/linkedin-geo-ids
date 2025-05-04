@@ -135,6 +135,10 @@
   {"name": "Frankfurt, Germany", "geoId": "106772406"},
   {"name": "Hamburg, Germany", "geoId": "101949806"},
   {"name": "Düsseldorf, Germany", "geoId": "104008204"},
+  {"name": "Paris, France", "geoId": "106383538"},
+  {"name": "Lyon, France", "geoId": "103815258"},
+  {"name": "Marseille, France", "geoId": "103857854"},
+  {"name": "Toulouse, France", "geoId": "105073465"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
