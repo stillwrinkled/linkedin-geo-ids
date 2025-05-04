@@ -110,6 +110,11 @@
   {"name": "Córdoba, Argentina", "geoId": "101272400"},
   {"name": "Rosario, Argentina", "geoId": "102556749"},
   {"name": "Mendoza, Argentina", "geoId": "100670802"},
+  {"name": "Mendoza, Argentina", "geoId": "100670802"},
+  {"name": "Bogotá, Colombia", "geoId": "104555257"},
+  {"name": "Medellín, Colombia", "geoId": "110697062"},
+  {"name": "Cali, Colombia", "geoId": "111160913"},
+  {"name": "Barranquilla, Colombia", "geoId": "108159731"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
