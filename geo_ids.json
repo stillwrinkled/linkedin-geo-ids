@@ -124,6 +124,12 @@
   {"name": "Guadalajara, Mexico", "geoId": "90010043"},
   {"name": "Tijuana, Mexico", "geoId": "101586014"},
   {"name": "Tegucigalpa, Honduras", "geoId": "103601398"},
+  {"name": "Manchester, United Kingdom", "geoId": "90009497"},
+  {"name": "Birmingham, United Kingdom", "geoId": "100356971"},
+  {"name": "Edinburgh, Scotland", "geoId": "100209086"},
+  {"name": "Glasgow, Scotland", "geoId": "102681496"},
+  {"name": "Nottingham, United Kingdom", "geoId": "101434318"},
+  {"name": "Leicester, United Kingdom", "geoId": "108618316"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
