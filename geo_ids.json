@@ -109,7 +109,7 @@
   {"name": "Buenos Aires, Argentina", "geoId": "101279968"},
   {"name": "Córdoba, Argentina", "geoId": "101272400"},
   {"name": "Rosario, Argentina", "geoId": "102556749"},
-  {"name": "Mendoza, Argentina", "geoId": "100670802"},
+  {"name": "San José, Costa Rica", "geoId": "102322826"},
   {"name": "Mendoza, Argentina", "geoId": "100670802"},
   {"name": "Bogotá, Colombia", "geoId": "104555257"},
   {"name": "Medellín, Colombia", "geoId": "110697062"},
@@ -123,6 +123,7 @@
   {"name": "Mexico City, Mexico", "geoId": "101526486"},
   {"name": "Guadalajara, Mexico", "geoId": "90010043"},
   {"name": "Tijuana, Mexico", "geoId": "101586014"},
+  {"name": "Tegucigalpa, Honduras", "geoId": "103601398"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
