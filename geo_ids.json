@@ -138,7 +138,11 @@
   {"name": "Paris, France", "geoId": "106383538"},
   {"name": "Lyon, France", "geoId": "103815258"},
   {"name": "Marseille, France", "geoId": "103857854"},
-  {"name": "Toulouse, France", "geoId": "105073465"},
+  {"name": "Toulouse, France", "geoId": "105073465"}
+  {"name": "Amsterdam, Netherlands", "geoId": "102011674"}
+  {"name": "Rotterdam, Netherlands", "geoId": "100467493"}
+  {"name": "Utrecht, Netherlands", "geoId": "100163908"}
+  {"name": "The Hague, Netherlands", "geoId": "102685993"}
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
