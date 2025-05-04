@@ -115,6 +115,11 @@
   {"name": "Medellín, Colombia", "geoId": "110697062"},
   {"name": "Cali, Colombia", "geoId": "111160913"},
   {"name": "Barranquilla, Colombia", "geoId": "108159731"},
+  {"name": "Lima, Peru", "geoId": "101312395"},
+  {"name": "Montevideo, Peru", "geoId": "100408775"},
+  {"name": "Quito, Ecuador", "geoId": "104011438"},
+  {"name": "Caracas, Venezuela", "geoId": "104362718"},
+  {"name": "Asunción, Paraguay", "geoId": "101707166"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
