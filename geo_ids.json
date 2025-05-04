@@ -161,6 +161,10 @@
   {"name": "Zurich, Switzerland", "geoId": "102436504"},
   {"name": "Geneva, Switzerland", "geoId": "104406358"},
   {"name": "Basel, Switzerland", "geoId": "100100349"},
+  {"name": "Riyadh, Saudi Arabia", "geoId": "10133620"},
+  {"name": "Jeddah, Saudi Arabia", "geoId": "109019211"},
+  {"name": "Dammam, Saudi Arabia", "geoId": "113453034"},
+  {"name": "Al Khobar, Saudi Arabia", "geoId": "100459316"},
   
   {"name": "Fremont, CA", "geoId": "106138232"}
   
