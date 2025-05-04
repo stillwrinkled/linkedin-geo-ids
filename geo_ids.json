@@ -158,6 +158,9 @@
   {"name": "Warsaw, Poland", "geoId": "105076658"},
   {"name": "Dublin, Ireland", "geoId": "105178154"},
   {"name": "Belfast, Ireland", "geoId": "104738515"},
+  {"name": "Zurich, Switzerland", "geoId": "102436504"},
+  {"name": "Geneva, Switzerland", "geoId": "104406358"},
+  {"name": "Basel, Switzerland", "geoId": "100100349"},
   
   {"name": "Fremont, CA", "geoId": "106138232"}
   
