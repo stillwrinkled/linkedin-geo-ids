@@ -155,6 +155,9 @@
   {"name": "Oslo, Norway", "geoId": "105719246"},
   {"name": "Copenhagen, Denmark", "geoId": "102194656"},
   {"name": "Helsinki, Finland", "geoId": "106591199"},
+  {"name": "Warsaw, Poland", "geoId": "105076658"},
+  {"name": "Dublin, Ireland", "geoId": "105178154"},
+  {"name": "Belfast, Ireland", "geoId": "104738515"},
   
   {"name": "Fremont, CA", "geoId": "106138232"}
   
