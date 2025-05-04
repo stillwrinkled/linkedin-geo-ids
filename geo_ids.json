@@ -165,7 +165,14 @@
   {"name": "Jeddah, Saudi Arabia", "geoId": "109019211"},
   {"name": "Dammam, Saudi Arabia", "geoId": "113453034"},
   {"name": "Al Khobar, Saudi Arabia", "geoId": "100459316"},
-  
+  {"name": "Kuwait City, Kuwait", "geoId": "103239229"},
+  {"name": "Amman, Jordan", "geoId": "105255939"},
+  {"name": "Manama, Bahrain", "geoId": "104719355"},
+  {"name": "Muscat, Oman", "geoId": "103619019"},
+  {"name": "Doha, Qatar", "geoId": "106203786"},
+  {"name": "Dubai, UAE", "geoId": "104305776"},
+  {"name": "Abu Dhabi, UAE", "geoId": "104524176"},
+  {"name": "Sharjah, UAE", "geoId": "108354619"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
