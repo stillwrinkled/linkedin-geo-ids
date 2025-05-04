@@ -148,8 +148,10 @@
   {"name": "Valencia, Spain", "geoId": "105512687"},
   {"name": "Seville, Spain", "geoId": "102187989"},
   {"name": "Milan, Italy", "geoId": "100881402"},
-   {"name": "Rome, Italy", "geoId": "106398949"},
-   {"name": "Turin, Italy", "geoId": "105968381"},
+  {"name": "Rome, Italy", "geoId": "106398949"},
+  {"name": "Turin, Italy", "geoId": "105968381"},
+  {"name": "Stockholm, Sweden", "geoId": "100907646"},
+  {"name": "Gothenburg, Sweden", "geoId": "104114836"},
   {"name": "Fremont, CA", "geoId": "106138232"}
   
 ]
